@@ -6,23 +6,22 @@ First Cruise Ship of India
 ---
 # Name
 +++
-# Kanhoji Angre
+## Kanhoji Angre
 Named after the famous Maratha Navy Admiral
 
 ---
 # Launch
 +++
-* Mumbai & Goa
-* 21 October 2018
+Between Mumbai & Goa 
+on 
+21 October 2018
 
 ---
 # Creators
 +++
 ### Joint Venture
-* Mumbai Port Trust
-* Angriya Sea Eagle Pvt. Ltd.
+Mumbai Port Trust & Angriya Sea Eagle Pvt. Ltd.
 ---
 # Features
 +++
-* 400 Passengers
-* 70 Crew
+400 Passengers and 70 Crew
