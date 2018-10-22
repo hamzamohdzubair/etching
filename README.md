@@ -1,2 +1,2 @@
-# test1
-test repository for gitpitch
+# Gitpitch
+Stories of Knowledge
