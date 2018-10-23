@@ -1,6 +1,5 @@
-theme : beige
+theme : moon
 footnote : "Hamza Mohd. Zubair"
-highlight : atom-one-dark
 layout : center
-theme-override : assets/PITCHME.css
+theme-override : assets/css/PITCHME.css
 published : true
