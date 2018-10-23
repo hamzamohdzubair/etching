@@ -1,5 +1,4 @@
 .opacity {
   display:inline;
-  background-color: #ffffff;
-  filter: alpha(opacity=50);
+  background-color: rgba(204, 204, 204, 0.5);
 }
