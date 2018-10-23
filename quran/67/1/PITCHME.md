@@ -6,8 +6,8 @@ Ayahs 1-12
 ---
 # Text
 +++
-!(quran/QP/561)
-!(quran/QP/562)
+![561](quran/QP/561)
+![562](quran/QP/562)
 
 ---
 # Videos
