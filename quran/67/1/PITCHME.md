@@ -5,9 +5,8 @@ Ayahs 1-12
 
 ---
 # Text
-+++
-![561](quran/QP/561.jpg)
-![562](quran/QP/562.jpg)
++++?image=quran/QP/561.jpg
+
 
 ---
 # Videos
