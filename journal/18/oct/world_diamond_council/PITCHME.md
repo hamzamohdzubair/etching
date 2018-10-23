@@ -11,7 +11,7 @@ Kimberley Process Certification Scheme reduced *conflict diamonds* to less than
 of produced diamonds
 
 ---?image=https://pro2-bar-s3-cdn-cf6.myportfolio.com/7110bd9a9c83d97ed90b4758be565c85/7cf65034-0bca-420c-a47b-dbf276a82c66_rw_1920.jpg&size=cover
-@snap[east]
-<h2> @css[x](Mumbai)</h2>
-<h4> @css[x](14th Annual Meet)</h4>
+
+## @css[x](Mumbai)
+#### @css[x](14th Annual Meet)
 @css[x](22-23 Dec)
