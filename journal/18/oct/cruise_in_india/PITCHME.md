@@ -1,5 +1,4 @@
 ---?image=https://cloudfront.timesnownews.com/media/ANGRIYA_.jpg&size=auto
-# @css[x](Angriya)
 ---
 # Angriya
 First Cruise Ship of India
