@@ -9,6 +9,9 @@ Ayahs 1-12
 @snap[west]
 ![562](quran/QP/562.jpg)
 @snapend
+@snap[east]
+![561](quran/QP/561.jpg)
+@snapend
 
 ---
 # Videos
