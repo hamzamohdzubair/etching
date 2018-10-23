@@ -1,4 +1,4 @@
-theme : beige
+theme : sky
 footnote : "Hamza Mohd. Zubair"
 layout : center
 theme-override : assets/css/PITCHME.css
