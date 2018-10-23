@@ -6,9 +6,9 @@ Ayahs 1-12
 ---
 # Text
 +++
-
-![562](quran/QP/562.jpg&size=50% 100%)
-
+@snap[west]
+![562](quran/QP/562.jpg)
+@snapend
 @snap[east]
 ![561](quran/QP/561.jpg)
 @snapend
