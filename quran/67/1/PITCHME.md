@@ -5,7 +5,7 @@ Ayahs 1-12
 
 ---
 # Text
-+++?image=quran/QP/561.jpg
++++?image=quran/QP/561.jpg&position=left
 
 
 ---
