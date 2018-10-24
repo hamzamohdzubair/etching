@@ -12,7 +12,7 @@ of produced diamonds
 
 ---?image=https://pro2-bar-s3-cdn-cf6.myportfolio.com/7110bd9a9c83d97ed90b4758be565c85/7cf65034-0bca-420c-a47b-dbf276a82c66_rw_1920.jpg&size=cover
 @snap[north-east x]
-## Mumbai
-#### 14th Annual Meet
+<h2> Mumbai </h2>
+<h4> 14th Annual Meet </h4>
 22-23 Dec
 @snapend
