@@ -1,4 +1,4 @@
 .x {
-  display : initial;
+  display : inherit;
   background-color: rgba(0, 0, 0, 0.4);
 }
