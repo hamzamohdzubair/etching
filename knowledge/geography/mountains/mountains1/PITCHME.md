@@ -1,7 +1,8 @@
 ---?image=https://www.nps.gov/lacl/learn/nature/images/Mountains-page_-Image-w-cred-cap_-1200w_-Neacola-CRL00222_3.jpg&size=cover
 ### @css[x](Mountain Ranges)
 ##### Longest to Shortest
-+++?image=https://www.mapsofworld.com/physical-map/maps/world-physical-map-large.gif&size=contain
++++?image=https://www.mapsofindia.com/worldmap/world-physical-map-large.gif&size=contain
++++?image=https://www.mapsofindia.com/print_image.php?id=https://www.mapsofindia.com/worldmap/world-physical-map.gif&spid=undefined&size=contain
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
@@ -10,7 +11,8 @@
 +++?image=https://img.haikudeck.com/mi/1307952E-FB6E-4D83-A14A-FD576D738849.jpg&size=contain
 +++
 ###### 40,389 Km
-(Straight line distance from Kashmir to Kanyakumari is 2800 Km)
+Straight line distance from Kashmir to Kanyakumari is 
+2800 Km
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cordillera_de_los_Andes.jpg/1200px-Cordillera_de_los_Andes.jpg&size=cover
 ### @css[x](Andes)
@@ -18,11 +20,12 @@
 ### @css[x](Andes)
 +++?image=https://images.mapsofworld.com/answers/2017/10/longest-mountain-range-in-south-america-map.gif&size=contain
 +++
-###### 7000 Km
-
+##### 7000 Km
 
 ---?image=https://i2.wp.com/easytripsvancouver.com/wp-content/uploads/2014/12/RockyMointains.jpg&size=cover
 ### @css[x](Rocky Mountains)
++++
+##### 4830 Km
 
 ---?image=https://static.thousandwonders.net/Great.Dividing.Range.original.1547.jpg&size=cover
 ### @css[x](Great Dividing Range)
