@@ -2,7 +2,6 @@
 ### @css[x](Mountain Ranges)
 ##### Longest to Shortest
 +++?image=https://www.mapsofindia.com/worldmap/world-physical-map-large.gif&size=contain
-+++?image=https://www.mapsofindia.com/print_image.php?id=https://www.mapsofindia.com/worldmap/world-physical-map.gif&spid=undefined&size=contain
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
@@ -12,7 +11,7 @@
 +++
 ###### 40,389 Km
 Straight line distance from Kashmir to Kanyakumari is 
-2800 Km
+2,800 Km
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cordillera_de_los_Andes.jpg/1200px-Cordillera_de_los_Andes.jpg&size=cover
 ### @css[x](Andes)
