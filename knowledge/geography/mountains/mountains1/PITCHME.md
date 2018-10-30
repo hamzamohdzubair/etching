@@ -5,9 +5,21 @@
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
++++?image=https://i.ytimg.com/vi/rEgqNQS8QDo/maxresdefault.jpg&size=contain
++++?image=http://1.bp.blogspot.com/-O_xNL_cLPIU/TnsRnXvrKoI/AAAAAAAAAbM/D9a34zmBFUM/s1600/Atlantic_Ocean_surface.jpg&size=contain
++++?image=https://img.haikudeck.com/mi/1307952E-FB6E-4D83-A14A-FD576D738849.jpg&size=contain
++++
+###### 40,389 Km
+(Straight line distance from Kashmir to Kanyakumari is 2800 Km)
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cordillera_de_los_Andes.jpg/1200px-Cordillera_de_los_Andes.jpg&size=cover
 ### @css[x](Andes)
++++?image=https://undark.org/wp-content/uploads/sites/2/2018/07/andes-hed.jpg&size=cover
+### @css[x](Andes)
++++?image=https://images.mapsofworld.com/answers/2017/10/longest-mountain-range-in-south-america-map.gif&size=contain
++++
+###### 7000 Km
+
 
 ---?image=https://i2.wp.com/easytripsvancouver.com/wp-content/uploads/2014/12/RockyMointains.jpg&size=cover
 ### @css[x](Rocky Mountains)
@@ -36,6 +48,16 @@
 ### @css[x](Appalachian Mountains)
 +++?image=https://d2vlcm61l7u1fs.cloudfront.net/media%2F8c2%2F8c2c3b05-3afe-4b95-9290-80db96e75b2c%2Fphpgru2RY.png&size=contain
 
----?image=
+---?image=https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg&size=cover
+### @css[x](Himalayas)
++++?image=https://images.theconversation.com/files/183721/original/file-20170829-31699-rxv9gb.png&size=contain
 
----?image=
+---?image=http://your-photography.com/files/2015/10/006.jpg&size=cover
+### @css[x](Altai Mountains)
++++?image=http://your-photography.com/files/2015/10/HH0A4727-1.jpg&size=cover
+### @css[x](Altai Mountains)
++++?image=https://i.pinimg.com/originals/65/b3/e2/65b3e2cf040d8cdac4411fa468d5940a.jpg&size=contain
+
+---?image=https://static.thousandwonders.net/Carpathian.Mountains.original.18652.jpg&size=cover
+### @css[x](Carpathian Mountains)
++++?image=http://d2ouvy59p0dg6k.cloudfront.net/img/original/danube_carpahtian_region.jpg&size=contain
