@@ -1,0 +1,2 @@
+---?image=https://www.nps.gov/lacl/learn/nature/images/Mountains-page_-Image-w-cred-cap_-1200w_-Neacola-CRL00222_3.jpg&size=cover
+---
