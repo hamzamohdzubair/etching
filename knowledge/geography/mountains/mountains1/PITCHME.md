@@ -2,6 +2,7 @@
 ### @css[x](Mountain Ranges)
 ##### Longest to Shortest
 +++?image=http://abiturienti.me/wp-content/uploads/mountain-ranges-world-map-http-maps-howstuffworks-com-at-within-of-the-labeled-0.jpg&size=contain
++++?image=https://canconf.com/images/2018/04/map-world-mountain-ranges-up-to-date-us-mountain-ranges-map-mountain-map-us-map-california-of-map-world-mountain-ranges.jpg&size=contain
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
@@ -17,23 +18,27 @@ Straight line distance from Kashmir to Kanyakumari is
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cordillera_de_los_Andes.jpg/1200px-Cordillera_de_los_Andes.jpg&size=cover
 ### @css[x](Andes)
 +++?image=https://undark.org/wp-content/uploads/sites/2/2018/07/andes-hed.jpg&size=cover
-### @css[x](Andes)
 +++?image=https://images.mapsofworld.com/answers/2017/10/longest-mountain-range-in-south-america-map.gif&size=contain
 +++
 ##### 7000 Km
 
 ---?image=https://i2.wp.com/easytripsvancouver.com/wp-content/uploads/2014/12/RockyMointains.jpg&size=cover
 ### @css[x](Rocky Mountains)
++++?image=https://pr-nt.me/files/rocky-mountains-on-world-map-nextread-me-in.jpg&size=contain
 +++
 ##### 4830 Km
 
 ---?image=https://static.thousandwonders.net/Great.Dividing.Range.original.1547.jpg&size=cover
 ### @css[x](Great Dividing Range)
-+++?image=https://tldesigner.net/wp-content/uploads/wow-australia-expedition-for-map-great-dividing-range-utlr-me-at-8.jpg&size=cover
++++?image=https://i.pinimg.com/originals/bf/de/03/bfde03ad19467b762403fefc4fa9253a.jpg&size=contain
++++
+##### 3700 km
 
 ---?image=https://antarcticfudgesicles.files.wordpress.com/2011/01/dsc_0288.jpg&size=cover
 ### @css[x](Transantarctic Mountains)
 +++?image=https://upload.wikimedia.org/wikipedia/commons/9/93/Antarctica_major_geographical_features.jpg&size=cover
++++
+##### 3500 km
 
 ---?image=https://www.nsf.gov/news/mmg/media/images/Figure%206%20Yuzhu%20Mountain.jpg&size=contain
 ### @css[x](Kunlun Mountains)
@@ -65,3 +70,13 @@ Straight line distance from Kashmir to Kanyakumari is
 ---?image=https://static.thousandwonders.net/Carpathian.Mountains.original.18652.jpg&size=cover
 ### @css[x](Carpathian Mountains)
 +++?image=http://d2ouvy59p0dg6k.cloudfront.net/img/original/danube_carpahtian_region.jpg&size=contain
+
+
+
+
+
+---
+### @css[x](Alps)
++++?image=https://canconf.com/images/2018/04/map-world-mountain-ranges-fresh-4-fold-mountains-best-alps-world-map-besttabletfor-me-at-and-of-map-world-mountain-ranges.gif&size=contain
++++
+##### 1200 km
