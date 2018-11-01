@@ -220,6 +220,7 @@ Straight line distance from Kashmir to Kanyakumari is
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1_Aravalli_Range_in_Rajasthan_India.jpg/1200px-1_Aravalli_Range_in_Rajasthan_India.jpg&size=cover
 +++?image=https://prefabrikk.com/wp-content/uploads/why-do-deserts-form-main-qimg-kitchen-see-aravalli-range-in-above-are-parallel-the-winds-direction-1255x1286.jpg&size=contain
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/7a/India_Geographic_Map.jpg&size=contain
++++
 ![video](https://www.youtube.com/embed/T_gBy2lB-EY)
 +++
 ##### 800 km
