@@ -34,7 +34,7 @@ Straight line distance from Kashmir to Kanyakumari is
 ### @css[x](Transantarctic Mountains)
 +++?image=https://upload.wikimedia.org/wikipedia/commons/9/93/Antarctica_major_geographical_features.jpg&size=cover
 
----?image=https://www.nsf.gov/news/mmg/media/images/Figure%206%20Yuzhu%20Mountain.JPG&size=contain
+---?image=https://www.nsf.gov/news/mmg/media/images/Figure%206%20Yuzhu%20Mountain.jpg&size=contain
 ### @css[x](Kunlun Mountains)
 +++?image=http://www.alearningfamily.com/main/wp-content/uploads/AsiaEastPhysical.jpg&size=cover
 
