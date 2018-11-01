@@ -42,7 +42,7 @@ Straight line distance from Kashmir to Kanyakumari is
 ### @css[x](Ural Mountains)
 +++?image=https://i.redd.it/muvce1oro5tz.jpg&size=cover
 
---?image=https://media.audleytravel.com/-/media/images/home/north-africa-and-the-middle-east/morocco/country-guides/walking-and-trekking-in-morocco/istock_000021040010_atlas_mountains.jpg&size=cover
+---?image=https://media.audleytravel.com/-/media/images/home/north-africa-and-the-middle-east/morocco/country-guides/walking-and-trekking-in-morocco/istock_000021040010_atlas_mountains.jpg&size=cover
 ### @css[x](Atlas Mountains)
 +++?image=https://upload.wikimedia.org/wikipedia/commons/a/ab/Atlas-Mountains-Labeled-2.jpg&size=contain
 
