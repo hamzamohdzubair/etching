@@ -200,10 +200,9 @@ Straight line distance from Kashmir to Kanyakumari is
 +++
 ##### 1100 km
 
----?image=https://static1.squarespace.com/static/590356efc534a5939aed976c/590c2f0937c5813774b23aab/590c485f197aea479f7673d7/1494061120842/laos-thakhek-annamite-range-photo-by-aaron-minksDSC09812.jpg&size=cover
+---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Annamite_range_pu_mat_2007_05.jpg/1200px-Annamite_range_pu_mat_2007_05.jpg&size=cover
 ### @css[x](Annamite Range)
 +++?image=https://uminhtours.com/wp-content/uploads/2016/12/Bach-Ma-National-Park.jpg&size=cover
-+++?image=https://static1.squarespace.com/static/578f8e381b631b4c4a94d503/t/57e14335440243a762ea5111/1474380610775/?format=1500w
 +++?image=http://www.alearningfamily.com/main/wp-content/uploads/VietnamPhysical-1.jpg&size=contain
 +++
 ##### 1100 km
@@ -221,8 +220,7 @@ Straight line distance from Kashmir to Kanyakumari is
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1_Aravalli_Range_in_Rajasthan_India.jpg/1200px-1_Aravalli_Range_in_Rajasthan_India.jpg&size=cover
 +++?image=https://prefabrikk.com/wp-content/uploads/why-do-deserts-form-main-qimg-kitchen-see-aravalli-range-in-above-are-parallel-the-winds-direction-1255x1286.jpg&size=contain
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/7a/India_Geographic_Map.jpg&size=contain
-+++
-https://www.youtube.com/embed/T_gBy2lB-EY
++++?video=https://www.youtube.com/embed/T_gBy2lB-EY
 +++
 ##### 800 km
 
