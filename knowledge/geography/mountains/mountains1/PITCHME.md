@@ -1,7 +1,7 @@
 ---?image=https://www.nps.gov/lacl/learn/nature/images/Mountains-page_-Image-w-cred-cap_-1200w_-Neacola-CRL00222_3.jpg&size=cover
 ### @css[x](Mountain Ranges)
 ##### Longest to Shortest
-+++?image=https://www.mapsofindia.com/worldmap/world-physical-map-large.gif&size=contain
++++?image=https://www.mapsofindia.com/worldmap/world-physical-map-large.jpg&size=contain
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
@@ -40,7 +40,7 @@ Straight line distance from Kashmir to Kanyakumari is
 
 ---?image=https://i.redd.it/muvce1oro5tz.jpg&size=cover
 ### @css[x](Ural Mountains)
-+++?image=https://i.redd.it/muvce1oro5tz.jpg&size=cover
++++?image=http://pr-nt.me/files/ural-mountains-on-world-map-timelist-me-new.jpeg&size=contain
 
 ---?image=https://media.audleytravel.com/-/media/images/home/north-africa-and-the-middle-east/morocco/country-guides/walking-and-trekking-in-morocco/istock_000021040010_atlas_mountains.jpg&size=cover
 ### @css[x](Atlas Mountains)
