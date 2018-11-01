@@ -5,7 +5,7 @@
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
-+++?image=https://i.ytimg.com/vi/rEgqNQS8QDo/maxresdefault.jpg&size=contain
++++?image=https://i.ytimg.com/vi/rEgqNQS8QDo/maxresdefault.jpg&size=cover
 +++?image=http://1.bp.blogspot.com/-O_xNL_cLPIU/TnsRnXvrKoI/AAAAAAAAAbM/D9a34zmBFUM/s1600/Atlantic_Ocean_surface.jpg&size=contain
 +++?image=https://img.haikudeck.com/mi/1307952E-FB6E-4D83-A14A-FD576D738849.jpg&size=contain
 +++
@@ -41,6 +41,7 @@ Straight line distance from Kashmir to Kanyakumari is
 ---?image=https://i.redd.it/muvce1oro5tz.jpg&size=cover
 ### @css[x](Ural Mountains)
 +++?image=http://pr-nt.me/files/ural-mountains-on-world-map-timelist-me-new.jpeg&size=contain
++++?image=http://www.freeworldmaps.net/russia/russia-mountain-ranges.jpg&size=contain
 
 ---?image=https://media.audleytravel.com/-/media/images/home/north-africa-and-the-middle-east/morocco/country-guides/walking-and-trekking-in-morocco/istock_000021040010_atlas_mountains.jpg&size=cover
 ### @css[x](Atlas Mountains)
