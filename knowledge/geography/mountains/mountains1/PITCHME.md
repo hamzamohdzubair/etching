@@ -175,57 +175,69 @@ Straight line distance from Kashmir to Kanyakumari is
 +++
 ##### 1200 km
 
----?image=
+---?image=https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/nX1tYZQ/apennines-a-village-built-at-the-foot-of-a-rocky-mountain-in-italy-aerial-drone-about-construction-rock-housing-traditional_soonl-ldx_thumbnail-full14.png&size=cover
 ### @css[x](Apennines)
-+++?image=
++++?image=http://earth-chronicles.com/wp-content/uploads/2016/10/Vyr4DIk0hCw.jpg&size=cover
++++?image=https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/09/21/10/italy-map.jpg&size=contain
++++?image=http://www.freeworldmaps.net/europe/italy/italy-physical-map.jpg&size=contain
 +++
 ##### 1200 km
 
----?image=
+---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/South_Africa_-_Drakensberg_%2816261357780%29.jpg/1200px-South_Africa_-_Drakensberg_%2816261357780%29.jpg&size=cover
 ### @css[x](Drakensberg)
-+++?image=
++++?image=https://www.places.co.za/blog/wp-content/uploads/2016/04/drakensberg.jpg&size=cover
++++?image=http://antranik.org/wp-content/uploads/2013/02/Drakensberg-Mountains-Southern-Africa-1300x829.jpg&size=cover
++++?image=https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/fBvKyIA/zoom-into-drakensberg-mountain-range-glowed-elevation-map_sijbeofqx_thumbnail-full01.png&size=contain
++++?image=https://images-na.ssl-images-amazon.com/images/I/A1Ba2VjHpwL.jpg&size=contain
 +++
 ##### 1100 km
 
----?image=
+---?image=https://www.seatoskyair.ca/wp-content/uploads/2016/06/cascades.png&size=cover
 ### @css[x](Cascade Mountains)
-+++?image=
++++?image=https://bendhabitat.org/wp-content/uploads/2016/07/photo-1464822759023-fed622ff2c3b-e1468339980215.jpg&size=cover
++++?image=http://www.destination360.com/north-america/us/washington/images/s/cascades.jpg&size=cover
++++?image=http://trip8.co/wp-content/uploads/2018/07/cascade-mountains-on-us-map-photo-collection-mountain-ranges-physical-map-best-united-states-physical-map-us-geography-mountain-ranges-download-for-of-cascade-mountains-on-us-map-photo-collection-moun.png&size=contain
 +++
 ##### 1100 km
 
----?image=
+---?image=https://static1.squarespace.com/static/590356efc534a5939aed976c/590c2f0937c5813774b23aab/590c485f197aea479f7673d7/1494061120842/laos-thakhek-annamite-range-photo-by-aaron-minksDSC09812.jpg&size=cover
 ### @css[x](Annamite Range)
-+++?image=
++++?image=https://uminhtours.com/wp-content/uploads/2016/12/Bach-Ma-National-Park.jpg&size=cover
++++?image=https://static1.squarespace.com/static/578f8e381b631b4c4a94d503/t/57e14335440243a762ea5111/1474380610775/?format=1500w
++++?image=http://www.alearningfamily.com/main/wp-content/uploads/VietnamPhysical-1.jpg&size=contain
 +++
 ##### 1100 km
 
----?image=
+---?image=http://2.bp.blogspot.com/-r7H4bTgeduc/VgIf8vx72yI/AAAAAAAAFcY/VlEEVue7Fjw/s1600/brooks%2Brange-433.jpg&size=cover
 ### @css[x](Brooks Range)
-+++?image=
++++?image=https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/NPRA_Fortress_Mountain_Formation.jpg&size=cover
++++?image=http://www.sidetracked.com/wp-content/uploads/2015/06/brooks-range-05.jpg&size=cover
++++?image=https://img.haikudeck.com/r/1d2597d0-f09d-419f-a58.jpg&size=contain
 +++
 ##### 1100 km
 
----?image=
-### @css[x](US Interior Highlands)
-+++?image=
-+++
-##### 1000 km
-
----?image=
+---?image=http://welcome2rajasthan.in/wp-content/uploads/2016/06/aravalli-range.jpg&size=cover
 ### @css[x](Aravalli Range)
-+++?image=
++++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1_Aravalli_Range_in_Rajasthan_India.jpg/1200px-1_Aravalli_Range_in_Rajasthan_India.jpg&size=cover
++++?image=https://prefabrikk.com/wp-content/uploads/why-do-deserts-form-main-qimg-kitchen-see-aravalli-range-in-above-are-parallel-the-winds-direction-1255x1286.jpg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/commons/7/7a/India_Geographic_Map.jpg&size=contain
++++
+https://www.youtube.com/embed/T_gBy2lB-EY
 +++
 ##### 800 km
 
----?image=
+---?image=https://avanto.io/wp-content/uploads/2017/06/SouthernAlps_PP_Updated-1200x1200.jpg&size=cover
 ### @css[x](Southern Alps)
-+++?image=
++++?image=https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/MA_00065554_lowrcg.jpg&size=cover
++++?image=http://www.aroundthisworld.com/uploads/2012/07/IMG_3708.jpg&size=cover
++++?image=http://www.freeworldmaps.net/oceania/new-zealand/new-zealand-physical-map.jpg&size=contain
 +++
 ##### 600 km
 
----?image=
+---?image=https://upload.wikimedia.org/wikipedia/commons/a/ab/Kom_stara_planina_pano.jpg&size=cover
 ### @css[x](Balkan Mountains)
-+++?image=
++++?image=https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/fBvKyIA/zoom-into-balkan-mountain-range-glowed-colored-physical-map_rdeankkxl_thumbnail-full01.png&size=contain
++++?image=http://www.alearningfamily.com/main/wp-content/uploads/BulgariaPhysical.jpg&size=contain
 +++
 ##### 560 km
 
