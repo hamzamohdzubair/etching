@@ -1,7 +1,7 @@
 ---?image=https://www.nps.gov/lacl/learn/nature/images/Mountains-page_-Image-w-cred-cap_-1200w_-Neacola-CRL00222_3.jpg&size=cover
 ### @css[x](Mountain Ranges)
 ##### Longest to Shortest
-+++?image=https://www.mapsofindia.com/worldmap/world-physical-map-large.jpg&size=contain
++++?image=http://abiturienti.me/wp-content/uploads/mountain-ranges-world-map-http-maps-howstuffworks-com-at-within-of-the-labeled-0.jpg&size=contain
 
 ---?image=https://i.pinimg.com/originals/0c/dc/66/0cdc668937ba20ae575d0efa413c33e2.jpg&size=cover
 ### @css[x](Mid Atlantic Ridge)
