@@ -8,7 +8,8 @@
 +++?image=https://images.says.com/uploads/story_source/source_image/250122/bb56.jpg&size=cover
 # About 20 Million Muslims
 ---
-## Islam is the "Religion of the Federation" 
+## Islam is 
+### "The Religion of the Federation" 
 +++
 Article 160, Malyasian Constitution:
 
@@ -20,7 +21,11 @@ All the Malaysian Malay people are Muslim by law.
 +++
 1000 years back
 +++
-
+### Animism
++++
+### Hinduism
++++
+### Buddhism
 +++?image=https://cdn-images-1.medium.com/max/2000/1*4uiUkorTP151wyQxgIdfFA.jpeg&size=cover
 
 
