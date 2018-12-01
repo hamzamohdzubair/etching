@@ -85,12 +85,6 @@
 #### @css[fragment](written in Jawi script)
 #### @css[fragment](standard script of malay language)
 #### @css[fragment](until it got replaced by Roman script under british influence in 1800s)
-
----
-### Today
-### @css[fragment](Malaysia is a source of Inspiration)
-#### @css[fragment](For many westerners who converted to Islam)
-## @css[fragment](Just by Visiting Malaysia)
 ---
 ### Today
 ### @css[fragment](Malaysia is a source of Inspiration)
