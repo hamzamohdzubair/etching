@@ -54,7 +54,7 @@
 @css[fragment]("It arrived gradually")
 +++
 #### In the early 1400s
-### @css[fragment](The Rulers of Malaysia and Indonesia came in contact with Islam)
+### @css[fragment](The Rulers of Malaysia came in contact with Islam)
 ### @css[fragment](Islam Started to become the religion of the elite)
 ### @css[fragment](Slowly everyone followed)
 ---?image=http://ontheworldmap.com/malaysia/malaysia-location-map.jpg&size=contain
