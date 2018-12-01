@@ -5,9 +5,13 @@
 # 32 Million
 +++?image=http://i.dawn.com/primary/2014/07/53d5ed57b6baa.jpg&size=cover
 # 61.3% Muslims
----?image=https://images.says.com/uploads/story_source/source_image/250122/bb56.jpg&size=cover
++++?image=https://images.says.com/uploads/story_source/source_image/250122/bb56.jpg&size=cover
 # About 20 Million Muslims
 ---
+## Islam is Official Religion
++++
+Article 160, Malyasian Constitution:
+One must be a Muslim to be considered as Ethnic Malay
 
 
 
