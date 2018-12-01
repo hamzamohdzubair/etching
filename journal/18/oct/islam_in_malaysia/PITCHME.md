@@ -11,9 +11,8 @@
 ## Islam is 
 ### "The Religion of the Federation" 
 +++
-Article 160, Malyasian Constitution:
-
-One must be a Muslim to be considered as Ethnic Malay
+#### Article 160, Malyasian Constitution:
+#### One must be a Muslim to be considered as Ethnic Malay
 +++
 All the Malaysian Malay people are Muslim by law.
 ---
@@ -23,22 +22,23 @@ All the Malaysian Malay people are Muslim by law.
 +++
 #### Most of the people
 +++
-### Animism
-+++
-### Hinduism
-+++
-### Buddhism
+### @css[fragment](Animism)
+### @css[fragment](Hinduism)
+### @ css[fragment](Buddhism)
 ---
 #### A place of the
 +++
 ### Oldest
 +++
 ## Largest
++++
 # Temples
 +++?image=https://cdn-images-1.medium.com/max/2000/1*4uiUkorTP151wyQxgIdfFA.jpeg&size=cover
 +++?image=https://previews.123rf.com/images/gracethang/gracethang1401/gracethang140100030/25294515-kuala-lumpur-malaysia-january-01-2014-thean-hou-temple-is-one-of-the-largest-chinese-temples-in-sout.jpg&size=cover
 +++?image=https://i.pinimg.com/originals/16/83/12/168312246403a3da515961b5874f4203.jpg&size=cover
 +++?image=https://mynameis.travel/images/travel/c676b0ed263055450ba450de575053cd.jpg&size=cover
+---
+### What Happened?
 
 
 
@@ -46,6 +46,16 @@ All the Malaysian Malay people are Muslim by law.
 
 
 
+---
+## Conclusion
++++
+#### Malaysia is an example of
++++
+#### Slow and peaceful Turnaround
++++
+### Culture
+### Religion
+### 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg&size=contain
 +++?image=https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png&size=contain
 ---
