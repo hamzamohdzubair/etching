@@ -43,7 +43,7 @@ All the Malaysian Malay people are Muslim by law.
 #### "The Malaysian Conquest"
 +++
 ## No war happened
----?image=https://smartraveller.gov.au/Maps/Malaysia.png&size=contain
+---?image=http://ontheworldmap.com/malaysia/malaysia-location-map.jpg&size=contain
 +++?image=https://upload.wikimedia.org/wikipedia/commons/a/af/Religion_spread_animation_slow.gif&size=contain
 
 
