@@ -26,7 +26,6 @@ All the Malaysian Malay people are Muslim by law.
 ### @css[fragment](Buddh)
 ---
 #### A place of the
-+++
 ### @css[fragment](Oldest)
 ## @css[fragment](Largest)
 # @css[fragment](Temples)
@@ -36,6 +35,16 @@ All the Malaysian Malay people are Muslim by law.
 +++?image=https://mynameis.travel/images/travel/c676b0ed263055450ba450de575053cd.jpg&size=cover
 ---
 ### What Happened?
++++
+#### Have you heard of
++++
+#### "The War of Malaysia"
++++
+#### "The Malaysian Conquest"
++++
+## No war happened
+---?image=https://smartraveller.gov.au/Maps/Malaysia.png&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/commons/a/af/Religion_spread_animation_slow.gif&size=cover
 
 
 
@@ -49,12 +58,10 @@ All the Malaysian Malay people are Muslim by law.
 #### Malaysia is an example of
 +++
 #### Slow and peaceful Turnaround
-+++
-### Culture
-### Religion
-### 
----?image=https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg&size=contain
-+++?image=https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png&size=contain
+#### of
+### @css[fragment](Culture)
+### @css[fragment](Religion)
+### @css[fragment](Politics)
 ---
 # References
 +++?image=https://images-na.ssl-images-amazon.com/images/I/A1BVFWL70WL.jpg&size=contain
