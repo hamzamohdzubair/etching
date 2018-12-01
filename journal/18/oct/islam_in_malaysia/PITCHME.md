@@ -68,7 +68,7 @@
 ---
 #### it is said
 #### @css[fragment](Just after few years of founding Malacca)
-#### @css[fragment](Prophet Muhammad (SAW) came in his dream and read the Shahadah)
+#### @css[fragment](Prophet Muhammad SAW came in his dream and read the Shahadah)
 #### @css[fragment](Very soon He accepted Islam)
 +++
 ### Malacca Sultanate was established
