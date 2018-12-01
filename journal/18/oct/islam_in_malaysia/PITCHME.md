@@ -8,10 +8,21 @@
 +++?image=https://images.says.com/uploads/story_source/source_image/250122/bb56.jpg&size=cover
 # About 20 Million Muslims
 ---
-## Islam is Official Religion
+## Islam is the "Religion of the Federation" 
 +++
 Article 160, Malyasian Constitution:
+
 One must be a Muslim to be considered as Ethnic Malay
++++
+All the Malaysian Malay people are Muslim by law.
+---
+## Not always like this
++++
+1000 years back
++++
+
++++?image=https://cdn-images-1.medium.com/max/2000/1*4uiUkorTP151wyQxgIdfFA.jpeg&size=cover
+
 
 
 
@@ -22,5 +33,6 @@ One must be a Muslim to be considered as Ethnic Malay
 ---
 # References
 +++?image=https://images-na.ssl-images-amazon.com/images/I/A1BVFWL70WL.jpg&size=contain
++++?image=https://images-na.ssl-images-amazon.com/images/I/7118tJVqm9L.jpg&size=contain
 ---
-@box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
+# Salam!
