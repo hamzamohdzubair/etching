@@ -53,10 +53,10 @@
 @css[fragment]("Islam came to Malaysia through Arab and Indian Traders")
 @css[fragment]("It arrived gradually")
 +++
-#### In the early 1400s
-### @css[fragment](The Rulers of Malaysia came in contact with Islam)
-### @css[fragment](Islam Started to become the religion of the elite)
-### @css[fragment](Slowly everyone followed)
+##### In the early 1400s
+#### @css[fragment](The Rulers of Malaysia came in contact with Islam)
+#### @css[fragment](Islam Started to become the religion of the elite)
+#### @css[fragment](Slowly everyone followed)
 ---?image=http://ontheworldmap.com/malaysia/malaysia-location-map.jpg&size=contain
 +++?image=https://upload.wikimedia.org/wikipedia/commons/a/af/Religion_spread_animation_slow.gif&size=contain
 ---?image=https://upload.wikimedia.org/wikipedia/commons/0/09/Retrato_de_Parameswara.jpg&size=contain
