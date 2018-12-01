@@ -21,10 +21,9 @@ All the Malaysian Malay people are Muslim by law.
 #### 800 years back
 +++
 #### Most of the people
-+++
-### @css[fragment](Animism)
-### @css[fragment](Hinduism)
-### @css[fragment](Buddhism)
+### @css[fragment](Ethnic Animist)
+### @css[fragment](Hindu)
+### @css[fragment](Buddh)
 ---
 #### A place of the
 +++
