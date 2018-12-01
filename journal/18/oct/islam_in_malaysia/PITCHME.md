@@ -24,15 +24,13 @@ All the Malaysian Malay people are Muslim by law.
 +++
 ### @css[fragment](Animism)
 ### @css[fragment](Hinduism)
-### @ css[fragment](Buddhism)
+### @css[fragment](Buddhism)
 ---
 #### A place of the
 +++
-### Oldest
-+++
-## Largest
-+++
-# Temples
+### @css[fragment](Oldest)
+## @css[fragment](Largest)
+# @css[fragment](Temples)
 +++?image=https://cdn-images-1.medium.com/max/2000/1*4uiUkorTP151wyQxgIdfFA.jpeg&size=cover
 +++?image=https://previews.123rf.com/images/gracethang/gracethang1401/gracethang140100030/25294515-kuala-lumpur-malaysia-january-01-2014-thean-hou-temple-is-one-of-the-largest-chinese-temples-in-sout.jpg&size=cover
 +++?image=https://i.pinimg.com/originals/16/83/12/168312246403a3da515961b5874f4203.jpg&size=cover
