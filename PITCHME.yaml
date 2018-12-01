@@ -1,5 +1,5 @@
 footnote : "Hamza Mohd. Zubair"
 layout : center
-theme-override : assets/css/PITCHME.css
+#theme-override : assets/css/PITCHME.css
 published : true
 theme : white
