@@ -1,5 +1,5 @@
 # Burden of Alcohol
-#### What do the statistics say?
+### What do the statistics say?
 ---
 ## About me
 +++
@@ -33,5 +33,15 @@ Senior Data Scientist,
 #### It's a beginning
 #### Appeal for Dua
 ---
-# Alcohol
-
+## Perceptions of Alcohol
++++
+#### What do you think about Alcohol?
+## @css[fragment](Astaghfirullah)
++++
+#### Biq question is
+### @css[fragment](Does it matter what you think?)
+### @css[fragment](Does it matter what muslims think?)
++++
+#### Even bigger question
+# @css[fragment](Does your opinion even matter?)
+---?image=https://imgur.com/nPicNkg
