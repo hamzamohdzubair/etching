@@ -67,7 +67,9 @@ Senior Data Scientist,
 ---
 ### India
 ---
-#### Your Opinion
+#### I think
+#### @css[fragment](We have established)
+#### @css[fragment](Your Opinion)
 #### @css[fragment](My Opinion)
 ### @css[fragment](Does not)
 ## @css[fragment](Matter)
