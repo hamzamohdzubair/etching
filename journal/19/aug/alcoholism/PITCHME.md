@@ -18,7 +18,7 @@ Senior Data Scientist,
 #### @css[fragment](We do research on important topics)
 ### @css[fragment](Quranic Topics)
 +++
-### Topic
+### Topics
 #### @css[fragment](Unity of Ummah)
 #### @css[fragment](Modesty)
 #### @css[fragment](Corruption)
