@@ -1,5 +1,5 @@
 # Burden of Alcohol
-### What does statistics say?
+### Statistical Perspective
 ---
 ## About me
 +++
@@ -69,6 +69,14 @@ Working as a Senior Data Scientist,
 ![data](https://i.imgur.com/5h07J76.png)
 +++
 ![data](https://i.imgur.com/VBRAmGy.png)
+
++++
+![](https://i.imgur.com/v23Cme9.png)
+
+
++++
+![](https://i.imgur.com/cUtNC0r.png)
+
 +++
 ### India
 +++
@@ -107,26 +115,23 @@ Working as a Senior Data Scientist,
 ## Organisations
 +++
 ![](https://i.imgur.com/oyXeAg7.png)
----
-## Reports
-+++
-![](https://i.imgur.com/n3kFQgy.png)
-+++
-![](https://i.imgur.com/v23Cme9.png)
-+++
-![](https://i.imgur.com/ExMUZTd.png)
+
 ---
 ## Medical Impact
+
++++
+![](https://i.imgur.com/n3kFQgy.png)
+
 +++
 ![un](https://i.imgur.com/lV32bG5.png)
 +++
 ![un](https://i.imgur.com/ENlUvFN.png)
-+++
-![un](https://i.imgur.com/HdxG4QX.png)
-+++
-![](https://i.imgur.com/cUtNC0r.png)
 --- 
 ## Economic Impact
+
++++
+![](https://i.imgur.com/ExMUZTd.png)
+
 +++
 #### For every drop of alcohol consumed
 ### @css[fragment](There is a negative effect on GDP)
@@ -140,6 +145,10 @@ Working as a Senior Data Scientist,
 #### @css[fragment](For the first time, we have scientific, medical, psychological, social and Economic Proof)
 #### @css[fragment](India is in a unique phase in terms of Alcohol consumption)
 #### @css[fragment](Our role becomes extremely important)
+
++++
+![un](https://i.imgur.com/HdxG4QX.png)
+
 ---
 ## Thank You!
 +++
@@ -149,3 +158,13 @@ Working as a Senior Data Scientist,
 #### Shais Ahmed
 #### Zeeshan Iqubal
 #### Dr. Javed
+
+---
+## Reports
++++
+![](https://i.imgur.com/n3kFQgy.png)
++++
+![](https://i.imgur.com/v23Cme9.png)
++++
+![](https://i.imgur.com/ExMUZTd.png)
+
