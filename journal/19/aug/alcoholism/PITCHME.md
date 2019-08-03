@@ -1,5 +1,5 @@
 # Burden of Alcohol
-### What do the statistics say?
+### What does statistics say?
 ---
 ## About me
 +++
@@ -48,6 +48,8 @@ Working as a Senior Data Scientist,
 #### Even bigger question
 # @css[fragment](Do any of our opinions matter?)
 ---
+## Facts
++++
 ### Bangalore
 +++
 ![data](https://i.imgur.com/nPicNkg.png)
@@ -65,7 +67,7 @@ Working as a Senior Data Scientist,
 ![data](https://i.imgur.com/5h07J76.png)
 +++
 ![data](https://i.imgur.com/VBRAmGy.png)
----
++++
 ### India
 ---
 #### I think
@@ -74,3 +76,6 @@ Working as a Senior Data Scientist,
 #### @css[fragment](My Opinion)
 ### @css[fragment](Does not)
 ## @css[fragment](Matter)
+---
+Public Perception
+
