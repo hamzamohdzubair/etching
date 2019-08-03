@@ -133,7 +133,15 @@ Working as a Senior Data Scientist,
 +++
 ![](https://i.imgur.com/1XBiH4W.png)
 ---
-### Thank You!
+## Summary
++++
+#### Muslims understand Alcohol is sin
+#### @css[fragment](But Public still believes in Myths)
+#### @css[fragment](For the first time, we have scientific, medical, psychological, social and Economic Proof)
+#### @css[fragment](India is in a unique phase in terms of Alcohol consumption)
+#### @css[fragment](Our role becomes extremely important)
+---
+## Thank You!
 +++
 ### Acknowledgments
 #### Dr. Taha Mateen
