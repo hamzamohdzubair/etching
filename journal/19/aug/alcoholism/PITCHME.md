@@ -16,14 +16,14 @@ Senior Data Scientist,
 +++
 #### We are a group of professionals
 #### @css[fragment](We do research on important topics)
-#### @css[fragment](Quranic Topics)
+### @css[fragment](Quranic Topics)
 +++
 ### Topic
 #### @css[fragment](Unity of Ummah)
 #### @css[fragment](Modesty)
 #### @css[fragment](Corruption)
 #### @css[fragment](Homosexuality)
-#### @css[fragment](Economic Justics)
+#### @css[fragment](Economic Justice)
 #### @css[fragment](Family Structure and Marriage)
 #### @css[fragment](Alcoholism)
 +++
