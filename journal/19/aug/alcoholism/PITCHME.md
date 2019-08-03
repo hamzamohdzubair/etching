@@ -63,6 +63,11 @@ Senior Data Scientist,
 +++
 ![data](https://i.imgur.com/5h07J76.png)
 +++
-![data](https://i.imgur.com/PlHW7nv.png)
+![data](https://i.imgur.com/VBRAmGy.png)
 ---
-## Stats
+### India
+---
+#### Your Opinion
+#### @css[fragment](My Opinion)
+### @css[fragment](Does not)
+## @css[fragment](Matter)
