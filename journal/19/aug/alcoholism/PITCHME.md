@@ -84,6 +84,12 @@ Working as a Senior Data Scientist,
 
 @css[fragment]("Relaxing effect on brain")
 
-@css[fragment]("It may be harmful, but it is good for the economy")
+@css[fragment]("Important for socializing")
+
+@css[fragment]("Not harmful in low quantities")
 
 @css[fragment]("It's harmful for some people not for me")
+
+@css[fragment]("It may be harmful, but it is good for the economy")
+
+
