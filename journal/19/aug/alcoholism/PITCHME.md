@@ -3,9 +3,9 @@
 ## About me
 +++
 Senior Data Scientist
-@css[fragment](Cartesian Consulting)
-@css[fragment](4 years of Experience)
-@css[fragment](Research, Data Science, AI, Robotics)
+@css[fragment](, working at Cartesian Consulting)
+@css[fragment](. I have 4 years of Experience)
+@css[fragment](in Research, Data Science, AI, Robotics)
 ---
 ## About us
 +++
