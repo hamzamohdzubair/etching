@@ -44,4 +44,4 @@ Senior Data Scientist,
 +++
 #### Even bigger question
 # @css[fragment](Does your opinion even matter?)
----?image=https://imgur.com/nPicNkg&size=cover
+---?image=https://i.imgur.com/nPicNkg.png
