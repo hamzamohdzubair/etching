@@ -2,7 +2,7 @@
 ---
 ## About us
 +++
-### Fig & Olive Foundation
+#### Fig & Olive Foundation
 +++
-### We are a group of professionals
-### We do research on important topics
+#### We are a group of professionals
+#### We do research on important topics
