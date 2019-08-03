@@ -3,9 +3,9 @@
 ---
 ## About me
 +++
-Senior Data Scientist,
-@css[fragment](working at Cartesian Consulting.)
-@css[fragment](I have about 4 years of Experience)
+Working as a Senior Data Scientist,
+@css[fragment](at Cartesian Consulting,)
+@css[fragment](with about 6 years of Experience)
 @css[fragment](in Research, Data Science, AI and Robotics)
 ---
 #### This Presentation was a group effort
@@ -35,7 +35,8 @@ Senior Data Scientist,
 #### It's a beginning
 ## @css[fragment](Appeal for Dua)
 ---
-## Perceptions of Alcohol
+## Perceptions Introspection
+#### @css[fragment](Perceptions Matter)
 +++
 #### What do you think about Alcohol?
 ## @css[fragment](Astaghfirullah)
