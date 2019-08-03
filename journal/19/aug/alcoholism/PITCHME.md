@@ -71,7 +71,7 @@ Working as a Senior Data Scientist,
 ### India
 +++
 #### India is seeing unprecedented increase in Alcohol Consumption
-#### What India is witnessing is an Alcohol Boom
+#### @css[fragment](What India is witnessing is an Alcohol Boom)
 +++
 ![](https://i.imgur.com/3hki5E7.png)
 ---
@@ -100,7 +100,7 @@ Working as a Senior Data Scientist,
 ![](https://i.imgur.com/7Uvv4JZ.png)
 +++
 #### Each and everone of the arguments
-#### has been proven Utterly False
+#### @css[fragment](has been proven Utterly False)
 ---
 ## Organisations
 +++
