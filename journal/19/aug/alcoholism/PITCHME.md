@@ -45,10 +45,15 @@ Senior Data Scientist,
 ### @css[fragment](Does it matter what muslims think?)
 +++
 #### Even bigger question
-# @css[fragment](Does your opinion even matter?)
+# @css[fragment](Do any of our opinions matter?)
 ---?image=https://i.imgur.com/nPicNkg.png
----?image=https://i.imgur.com/skcOPKz.png
----?image=https://i.imgur.com/pokqNV5.png
----?image=https://i.imgur.com/SFCOtrh.png
----?image=https://i.imgur.com/VfyqhwW.png
----?image=https://i.imgur.com/bqFHGka.png
++++?image=https://i.imgur.com/skcOPKz.png
++++?image=https://i.imgur.com/pokqNV5.png
++++?image=https://i.imgur.com/SFCOtrh.png
++++?image=https://i.imgur.com/VfyqhwW.png
++++?image=https://i.imgur.com/bqFHGka.png
++++?image=https://i.imgur.com/5h07J76.png
++++?image=https://i.imgur.com/PlHW7nv.png
+###
+---
+## Stats
