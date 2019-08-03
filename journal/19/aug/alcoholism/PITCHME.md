@@ -77,5 +77,13 @@ Working as a Senior Data Scientist,
 ### @css[fragment](Does not)
 ## @css[fragment](Matter)
 ---
-Public Perception
+## Public Perception
++++
+### Few Remarks from Indian and International Studies
+@css[fragment]("In low quantities it is actually good for health")
 
+@css[fragment]("Relaxing effect on brain")
+
+@css[fragment]("It may be harmful, but it is good for the economy")
+
+@css[fragment]("It's harmful for some people not for me")
