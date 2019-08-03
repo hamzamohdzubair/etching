@@ -49,8 +49,7 @@ Working as a Senior Data Scientist,
 # @css[fragment](Do any of our opinions matter?)
 ---
 ## Facts
-+++
-![un](https://i.imgur.com/ZZxgux5.png)
+
 +++
 ### Bangalore
 +++
@@ -79,6 +78,10 @@ Working as a Senior Data Scientist,
 
 +++
 ### India
+
++++
+![un](https://i.imgur.com/ZZxgux5.png)
+
 +++
 #### India is seeing unprecedented increase in Alcohol Consumption
 #### @css[fragment](What India is witnessing is an Alcohol Boom)
