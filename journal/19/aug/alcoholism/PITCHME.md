@@ -79,7 +79,7 @@ Working as a Senior Data Scientist,
 ---
 ## Public Perception
 +++
-### Few Remarks from Indian and International Studies
+#### Few Remarks from Indian and International Studies
 @css[fragment]("In low quantities it is actually good for health")
 
 @css[fragment]("Relaxing effect on brain")
