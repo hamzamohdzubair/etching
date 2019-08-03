@@ -97,6 +97,8 @@ Working as a Senior Data Scientist,
 
 @css[fragment]("It may be harmful, but it is good for the economy")
 +++
+![](https://i.imgur.com/7Uvv4JZ.png)
++++
 #### Each and everone of the arguments
 #### has been proven Utterly False
 ---
@@ -106,9 +108,11 @@ Working as a Senior Data Scientist,
 ---
 ## Reports
 +++
-![unreport](https://i.imgur.com/n3kFQgy.png)
+![](https://i.imgur.com/n3kFQgy.png)
 +++
 ![](https://i.imgur.com/v23Cme9.png)
++++
+![](https://i.imgur.com/ExMUZTd.png)
 ---
 ## Medical Impact
 +++
