@@ -28,12 +28,12 @@ Senior Data Scientist,
 #### @css[fragment](Alcoholism)
 +++
 ### Agenda
-#### Document
-#### Design
-#### Deliver
+#### @css[fragment](Document)
+#### @css[fragment](Design)
+#### @css[fragment](Deliver)
 +++
 #### It's a beginning
-#### Appeal for Dua
+#### @css[fragment](Appeal for Dua)
 ---
 ## Perceptions of Alcohol
 +++
