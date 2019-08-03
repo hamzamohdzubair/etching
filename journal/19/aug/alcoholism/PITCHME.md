@@ -1,11 +1,12 @@
 # Burden of Alcohol
+#### What do the statistics say?
 ---
 ## About me
 +++
 Senior Data Scientist,
 @css[fragment](working at Cartesian Consulting.)
 @css[fragment](I have about 4 years of Experience)
-@css[fragment](in Research, Data Science, AI, Robotics)
+@css[fragment](in Research, Data Science, AI and Robotics)
 ---
 ## About us
 +++
@@ -15,11 +16,22 @@ Senior Data Scientist,
 #### @css[fragment](We do research on important topics)
 #### @css[fragment](Quranic Topics)
 +++
-### Topics
-##### @css[fragment](Unity of Ummah)
-##### @css[fragment](Modesty)
-##### @css[fragment](Corruption)
-##### @css[fragment](Homosexuality)
-##### @css[fragment](Economic Justics)
-##### @css[fragment](Family Structure and Marriage)
-##### @css[fragment](Alcoholism)
+### Topic
+#### @css[fragment](Unity of Ummah)
+#### @css[fragment](Modesty)
+#### @css[fragment](Corruption)
+#### @css[fragment](Homosexuality)
+#### @css[fragment](Economic Justics)
+#### @css[fragment](Family Structure and Marriage)
+#### @css[fragment](Alcoholism)
++++
+### Agenda
+#### Document
+#### Design
+#### Deliver
++++
+#### It's a beginning
+#### Appeal for Dua
+---
+# Alcohol
+
