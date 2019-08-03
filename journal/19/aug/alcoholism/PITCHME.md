@@ -50,6 +50,8 @@ Working as a Senior Data Scientist,
 ---
 ## Facts
 +++
+![un](https://i.imgur.com/ZZxgux5.png)
++++
 ### Bangalore
 +++
 ![data](https://i.imgur.com/nPicNkg.png)
@@ -116,8 +118,6 @@ Working as a Senior Data Scientist,
 ---
 ## Medical Impact
 +++
-![un](https://i.imgur.com/ZZxgux5.png)
-+++
 ![un](https://i.imgur.com/lV32bG5.png)
 +++
 ![un](https://i.imgur.com/ENlUvFN.png)
@@ -127,4 +127,17 @@ Working as a Senior Data Scientist,
 ![](https://i.imgur.com/cUtNC0r.png)
 --- 
 ## Economic Impact
++++
+#### For every drop of alcohol consumed
+### @css[fragment](There is a negative effect on GDP)
++++
 ![](https://i.imgur.com/1XBiH4W.png)
+---
+### Thank You!
++++
+### Acknowledgments
+#### Dr. Taha Mateen
+#### Mubashshir Talib
+#### Shais Ahmed
+#### Zeeshan Iqubal
+#### Dr. Javed
