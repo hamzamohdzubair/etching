@@ -97,7 +97,7 @@ Working as a Senior Data Scientist,
 
 @css[fragment]("It may be harmful, but it is good for the economy")
 +++
-![](https://i.imgur.com/7Uvv4JZ.png)
+![](https://i.imgur.com/7Uvv4JZs.png)
 +++
 #### Each and everone of the arguments
 #### @css[fragment](has been proven Utterly False)
