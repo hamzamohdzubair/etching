@@ -100,9 +100,17 @@ Working as a Senior Data Scientist,
 #### Each and everone of the arguments
 #### has been proven Utterly False
 ---
-## Data
+## Organisations
++++
+![](https://i.imgur.com/oyXeAg7.png)
+---
+## Reports
 +++
 ![unreport](https://i.imgur.com/n3kFQgy.png)
++++
+![](https://i.imgur.com/v23Cme9.png)
+---
+## Medical Impact
 +++
 ![un](https://i.imgur.com/ZZxgux5.png)
 +++
@@ -112,6 +120,6 @@ Working as a Senior Data Scientist,
 +++
 ![un](https://i.imgur.com/HdxG4QX.png)
 +++
-![]()
-+++
 ![](https://i.imgur.com/cUtNC0r.png)
+--- Economic Impact
+![](https://i.imgur.com/1XBiH4W.png)
