@@ -91,9 +91,19 @@ Working as a Senior Data Scientist,
 @css[fragment]("It's harmful for some people not for me")
 
 @css[fragment]("It may be harmful, but it is good for the economy")
-
 +++
 #### Each and everone of the arguments
 #### has been proven Utterly False
-
+---
+## Data
++++
+![unreport](https://i.imgur.com/n3kFQgy.png)
++++
+![un](https://i.imgur.com/ZZxgux5.png)
++++
+![un](https://i.imgur.com/lV32bG5.png)
++++
+![un](https://i.imgur.com/ENlUvFN.png)
++++
+![un](https://i.imgur.com/HdxG4QX.png)
 
