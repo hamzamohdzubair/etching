@@ -8,6 +8,8 @@ Senior Data Scientist,
 @css[fragment](I have about 4 years of Experience)
 @css[fragment](in Research, Data Science, AI and Robotics)
 ---
+#### This Presentation was a group effort
++++
 ## About us
 +++
 #### Fig & Olive Foundation
