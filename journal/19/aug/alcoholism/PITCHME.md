@@ -53,6 +53,6 @@ Senior Data Scientist,
 +++?image=https://i.imgur.com/VfyqhwW.png
 +++?image=https://i.imgur.com/bqFHGka.png
 +++?image=https://i.imgur.com/5h07J76.png
-+++?image=https://i.imgur.com/PlHW7nv.png&size=contain
++++?image=https://i.imgur.com/PlHW7nv.png&size=500
 ---
 ## Stats
