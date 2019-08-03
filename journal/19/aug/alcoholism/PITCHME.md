@@ -46,14 +46,22 @@ Senior Data Scientist,
 +++
 #### Even bigger question
 # @css[fragment](Do any of our opinions matter?)
----?image=https://i.imgur.com/nPicNkg.png
-+++?image=https://i.imgur.com/skcOPKz.png
-+++?image=https://i.imgur.com/pokqNV5.png
-+++?image=https://i.imgur.com/SFCOtrh.png
-+++?image=https://i.imgur.com/VfyqhwW.png
-+++?image=https://i.imgur.com/bqFHGka.png
-+++?image=https://i.imgur.com/5h07J76.png
-+++?image=https://i.imgur.com/PlHW7nv.png&size=100
+---
+### Bangalore
++++
+![data](https://i.imgur.com/nPicNkg.png)
++++
+![data](https://i.imgur.com/skcOPKz.png)
++++
+![data](https://i.imgur.com/pokqNV5.png)
++++
+![data](https://i.imgur.com/SFCOtrh.png)
++++
+![data](https://i.imgur.com/VfyqhwW.png)
++++
+![data](https://i.imgur.com/bqFHGka.png)
++++
+![data](https://i.imgur.com/5h07J76.png)
 +++
 ![data](https://i.imgur.com/PlHW7nv.png)
 ---
