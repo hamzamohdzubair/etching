@@ -26,3 +26,6 @@
 ![Imgur](https://i.imgur.com/20uv4Rw.png)
 +++
 ![Imgur](https://i.imgur.com/xMLYu9N.png)
++++
+#### What is RL?
+### @css[fragment](Learning through interaction)
