@@ -1,5 +1,6 @@
 ---
 # Reinforcement Learning
+#### 1: Introduction
 ---
 ## Contents
 @ol[roman]
@@ -11,5 +12,4 @@
 - On-policy Prediction with Approximation
 @olend
 ---
-@box[fragment](How is Reinforcement Learning Different form Other forms of learning)
-
+![Imgur](https://i.imgur.com/cZyRhdv.png)
