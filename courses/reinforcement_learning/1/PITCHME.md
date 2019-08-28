@@ -1,11 +1,13 @@
 ---
-## Reinforcement Learning
+# Reinforcement Learning
 ---
-## MDP
-+++
----
-### Markov Property
-+++
-t-2 shouldn't matter.
----
-## Rewards
+## Contents
+@ol
+- Introduction
+- Mutli-Armed Bandits
+- Markov Decision Processes
+- Dynamic Programming
+- Temporal Difference Learning
+- On-policy Prediction with Approximation
+@olend
+
