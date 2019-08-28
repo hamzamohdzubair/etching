@@ -4,7 +4,7 @@
 ## Contents
 @ol[roman]
 - Introduction
-- Mutli-Armed Bandits @note[SPEAKER NOTES]
+- Mutli-Armed Bandits
 - Markov Decision Processes
 - Dynamic Programming
 - Temporal Difference Learning
