@@ -2,7 +2,7 @@
 # Reinforcement Learning
 ---
 ## Contents
-@ol
+@ol[roman]
 - Introduction
 - Mutli-Armed Bandits
 - Markov Decision Processes
