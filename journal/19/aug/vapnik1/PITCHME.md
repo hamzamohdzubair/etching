@@ -16,9 +16,17 @@ What is Vapnik
 ---
 ## Architecture
 +++
-### Overall Architecture
+### An Overview
 @css[fragment](![Imgur](https://i.imgur.com/GzzDhjC.png))
 +++
-
+### Flexibility
+#### @css[fragment](Integrate any Vapnik microservice directly to a front-end application)
+#### @css[fragment](Integrate with an older App with a Complete Backend)
++++
+### Framework Agnostic
++++
+![Imgur](https://i.imgur.com/kYXmBTD.png)
++++
+![Imgur](https://i.imgur.com/JSoVXpr.png)
 ---
 ## Text Intelligence
