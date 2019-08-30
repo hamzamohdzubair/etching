@@ -16,6 +16,9 @@ What is Vapnik
 ---
 ## Architecture
 +++
+### Overall Architecture
+@css[fragment](![Imgur](https://i.imgur.com/GzzDhjC.png))
++++
 
 ---
 ## Text Intelligence
