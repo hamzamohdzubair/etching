@@ -35,10 +35,15 @@ What is Vapnik
 +++
 ![Imgur](https://i.imgur.com/G19f8Ky.png)
 ---
+## Features
++++
+@box[](Test end-to-end pipeline before full integration)
+@box[fragment](with response times)
+---
 ## Text Intelligence
 ---
 ### Dedicated to
 ![Imgur](https://i.imgur.com/59J5hT1.png)
 ---
 #### Thank you
-### css[fragment](Let's Demo)
+### @css[fragment](Let's Demo)
