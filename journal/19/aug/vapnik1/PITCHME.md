@@ -9,10 +9,6 @@ What is Vapnik
 #### Sandbox for early testing
 +++
 #### Simple and Efficient Mechanism for Documenting ML Code
-+++
-All the features
-#### @css[fragment](Minimal Code)
-#### @css[fragment](Minimal Time)
 ---
 ## Architecture
 +++
@@ -22,7 +18,7 @@ All the features
 +++
 ### Internal Architecture
 @css[fragment](![Imgur](https://i.imgur.com/G19f8Ky.png))
-+++
+---
 ## Features
 +++
 #### Flexibility
@@ -32,7 +28,7 @@ All the features
 +++
 #### Platform Independence AI
 @box[fragment](Core Intelligence separate from the product)
-![north-west](https://i.imgur.com/kYXmBTD.png)
+![fragment](https://i.imgur.com/kYXmBTD.png)
 
 @img[north-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
 @img[north-east fragment span-45](https://i.imgur.com/JSoVXpr.png)
