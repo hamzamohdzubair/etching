@@ -44,7 +44,6 @@ What is Vapnik
 +++
 @snap[west fragment](![Imgur](https://i.imgur.com/kYXmBTD.png))
 @snap[east fragment](![Imgur](https://i.imgur.com/JSoVXpr.png))
-@snap[south fragment](![Imgur](https://i.imgur.com/7eJk4YI.png))
 +++
 #### Centrality
 @box[fragment](Due to central Repository of all intelligence)
