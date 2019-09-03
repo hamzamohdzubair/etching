@@ -22,25 +22,25 @@ What is Vapnik
 ## Features
 +++
 #### Flexibility
-@box[bg-gold text-white fragment box-padding](1.UI #Build a UI/Front-end on top of an AI microservice)
-@box[bg-gold text-white fragment box-padding](2.APP #Build an App that uses any of the AI microservice)
-@box[bg-gold text-white fragment box-padding](3.Existing System #Integrate any microservice into an existing software/system/app)
+@box[bg-pink text-white fragment box-padding](1.UI #Build a UI/Front-end on top of an AI microservice)
+@box[bg-blue text-white fragment box-padding](2.APP #Build an App that uses any of the AI microservice)
+@box[bg-white text-white fragment box-padding](3.Existing System #Integrate any microservice into an existing software/system/app)
 +++
 #### Platform Independence AI
 @box[](Core Intelligence separate from the product)
 ![Imgur](https://i.imgur.com/7eJk4YI.png)
 +++
-@snap[west]
+@snap[west span-45]
 ![](https://i.imgur.com/kYXmBTD.png)
 @snapend
-@snap[east]
+@snap[east span-45]
 ![](https://i.imgur.com/JSoVXpr.png)
 @snapend
 +++
 #### Centrality
-@box[bg-purple fragment](Due to central repository of all intelligence)
-@box[bg-purple fragment](Use related information across Problems)
-@box[bg-purple box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
+@box[bg-yellow fragment](Due to central repository of all intelligence)
+@box[bg-orange fragment](Use related information across Problems)
+@box[bg-gray box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
 +++
 #### Test Product even before Full Product Development
 @box[fragment](Test end-to-end pipeline before full integration)
