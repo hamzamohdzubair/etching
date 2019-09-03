@@ -10,9 +10,9 @@ What is Vapnik
 +++
 #### Simple and Efficient Mechanism for Documenting ML Code
 +++
-#### All of that
-### @css[fragment](Minimal Code)
-### @css[fragment](Minimal Time)
+@All the features
+#### @css[fragment](Minimal Code)
+#### @css[fragment](Minimal Time)
 ---
 ## Architecture
 +++
