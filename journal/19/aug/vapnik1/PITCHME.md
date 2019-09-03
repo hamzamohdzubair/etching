@@ -28,7 +28,7 @@ What is Vapnik
 +++
 #### Platform Independence AI
 @box[](Core Intelligence separate from the product)
-![fragment](https://i.imgur.com/kYXmBTD.png)
+![Imgur](https://i.imgur.com/7eJk4YI.png)
 +++
 @img[west span-45](https://i.imgur.com/kYXmBTD.png)
 @img[east span-45](https://i.imgur.com/JSoVXpr.png)
