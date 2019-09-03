@@ -17,8 +17,8 @@ What is Vapnik
 ## Architecture
 +++
 ### External Architecture
-@css[fragment](![Imgur](https://i.imgur.com/GzzDhjC.png))
-@css[fragment](Flexible Integration)
+@box[fragment](![Imgur](https://i.imgur.com/GzzDhjC.png))
+@box[fragment](Flexible Integration)
 +++
 ### Internal Architecture
 @css[fragment](![Imgur](https://i.imgur.com/G19f8Ky.png))
