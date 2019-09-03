@@ -30,13 +30,17 @@ What is Vapnik
 @box[](Core Intelligence separate from the product)
 ![Imgur](https://i.imgur.com/7eJk4YI.png)
 +++
-@img[west span-45](https://i.imgur.com/kYXmBTD.png)
-@img[east span-45](https://i.imgur.com/JSoVXpr.png)
+@snap[west]
+![](https://i.imgur.com/kYXmBTD.png)
+@snapend
+@snap[east]
+![](https://i.imgur.com/JSoVXpr.png)
+@snapend
 +++
 #### Centrality
-@box[fragment](Due to central repository of all intelligence)
-@box[fragment](Use related information across Problems)
-@box[box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
+@box[bg-purple fragment](Due to central repository of all intelligence)
+@box[bg-purple fragment](Use related information across Problems)
+@box[bg-purple box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
 +++
 #### Test Product even before Full Product Development
 @box[fragment](Test end-to-end pipeline before full integration)
