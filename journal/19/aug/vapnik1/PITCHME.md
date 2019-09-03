@@ -34,10 +34,12 @@ What is Vapnik
 ## Features
 +++
 #### Flexibility
-@ol[]
+@ol
+
 - Build a UI on top of it
 - Build an App that uses any of the microservice
 - Integrate any microservice into an existing software/system/app
+
 @olend
 +++
 @box[fragment](Build a UI on top of it)
