@@ -34,7 +34,7 @@ What is Vapnik
 ## Features
 +++
 #### Flexibility
-@box[bg-gold text-white fragment box-padding](1. #Build a UI on top of it)
+@box[bg-gold text-white fragment box-padding](1. ## Build a UI on top of it)
 @box[bg-gold text-white fragment box-padding](2. #Build an App that uses any of the AI microservice)
 @box[bg-gold text-white fragment box-padding](3. #Integrate any microservice into an existing software/system/app)
 +++
