@@ -27,12 +27,11 @@ What is Vapnik
 @box[bg-gold text-white fragment box-padding](3.Existing System #Integrate any microservice into an existing software/system/app)
 +++
 #### Platform Independence AI
-@box[fragment](Core Intelligence separate from the product)
+@box[](Core Intelligence separate from the product)
 ![fragment](https://i.imgur.com/kYXmBTD.png)
-
-@img[north-west span-45](https://i.imgur.com/kYXmBTD.png)
-@img[north-east span-45](https://i.imgur.com/JSoVXpr.png)
-@img[south span-45](https://i.imgur.com/7eJk4YI.png)
++++
+@img[west span-45](https://i.imgur.com/kYXmBTD.png)
+@img[east span-45](https://i.imgur.com/JSoVXpr.png)
 +++
 #### Centrality
 @box[fragment](Due to central repository of all intelligence)
