@@ -34,14 +34,6 @@ What is Vapnik
 ## Features
 +++
 #### Flexibility
-@ol[squares]
-
-- Build a UI on top of it
-- Build an App that uses any of the microservice
-- Integrate any microservice into an existing software/system/app
-
-@olend
-+++
 @box[bg-gold text-white fragment](Build a UI on top of it)
 @box[bg-gold text-white fragment](Build an App that uses any of the microservice)
 @box[bg-gold text-white fragment](Integrate any microservice into an existing software/system/app)
@@ -49,8 +41,8 @@ What is Vapnik
 #### Platform Independence AI
 @box[fragment](Model Integrated Product Development)
 @box[fragment](Core Intelligence separate from the product)
-@snap[west fragment](![Imgur](https://i.imgur.com/kYXmBTD.png))
-@snap[east fragment](![Imgur](https://i.imgur.com/JSoVXpr.png))
+@img[west fragment](https://i.imgur.com/kYXmBTD.png)
+@img[east fragment](https://i.imgur.com/JSoVXpr.png)
 +++
 #### Centrality
 @box[fragment](Due to central Repository of all intelligence)
