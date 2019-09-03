@@ -16,8 +16,12 @@ What is Vapnik
 ---
 ## Architecture
 +++
-### An Overview
+### External Architecture
 @css[fragment](![Imgur](https://i.imgur.com/GzzDhjC.png))
+@css[fragment](Flexible Integration)
++++
+### Internal Architecture
+@css[fragment](![Imgur](https://i.imgur.com/G19f8Ky.png))
 +++
 ### Flexibility
 #### @css[fragment](Integrate any Vapnik microservice directly to a front-end application)
@@ -31,11 +35,16 @@ What is Vapnik
 +++
 ![Imgur](https://i.imgur.com/7eJk4YI.png)
 ---
-## Internal Architecture
-+++
-![Imgur](https://i.imgur.com/G19f8Ky.png)
+
 ---
 ## Features
++++
+#### Flexibility
++++
+#### Platform Independence AI
+@box[fragment](Model Integrated Product Development)
+@box[fragment](Intelligence separate from the product)
+
 +++
 #### Centrality
 @box[fragment](Due to central Repository of all intelligence)
