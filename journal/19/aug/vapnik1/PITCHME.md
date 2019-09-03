@@ -35,7 +35,7 @@ What is Vapnik
 +++
 #### Flexibility
 @box[bg-gold text-white fragment box-padding](1.UI #Build a UI/Front-end on top of an AI microservice)
-@box[bg-gold text-white fragment box-padding](2.App #Build an App that uses any of the AI microservice)
+@box[bg-gold text-white fragment box-padding](2.APP #Build an App that uses any of the AI microservice)
 @box[bg-gold text-white fragment box-padding](3.Existing System #Integrate any microservice into an existing software/system/app)
 +++
 #### Platform Independence AI
