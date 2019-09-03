@@ -26,7 +26,7 @@ What is Vapnik
 @box[bg-pink text-white fragment box-padding](2.APP #Build an App that uses any of the AI microservice)
 @box[bg-pink text-white fragment box-padding](3.Existing System #Integrate any microservice into an existing software/system/app)
 +++
-#### Platform Independence AI
+#### Platform Independent AI
 @box[](Core Intelligence separate from the product)
 ![Imgur](https://i.imgur.com/7eJk4YI.png)
 +++
