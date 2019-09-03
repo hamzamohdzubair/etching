@@ -42,9 +42,9 @@ What is Vapnik
 
 @olend
 +++
-@box[bg-gold fragment](Build a UI on top of it)
-@box[bg-gold fragment](Build an App that uses any of the microservice)
-@box[bg-gold fragment](Integrate any microservice into an existing software/system/app)
+@box[bg-gold text-white fragment](Build a UI on top of it)
+@box[bg-gold text-white fragment](Build an App that uses any of the microservice)
+@box[bg-gold text-white fragment](Integrate any microservice into an existing software/system/app)
 +++
 #### Platform Independence AI
 @box[fragment](Model Integrated Product Development)
