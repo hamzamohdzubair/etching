@@ -41,6 +41,7 @@ What is Vapnik
 #### Platform Independence AI
 @box[fragment](Model Integrated Product Development)
 @box[fragment](Core Intelligence separate from the product)
++++
 @snap[west fragment](![Imgur](https://i.imgur.com/kYXmBTD.png))
 @snap[east fragment](![Imgur](https://i.imgur.com/JSoVXpr.png))
 @snap[south fragment](![Imgur](https://i.imgur.com/7eJk4YI.png))
