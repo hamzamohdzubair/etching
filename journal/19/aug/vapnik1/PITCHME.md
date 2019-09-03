@@ -37,10 +37,15 @@ What is Vapnik
 ---
 ## Features
 +++
-@box[](Test end-to-end pipeline before full integration)
+#### Centrality
+@box[fragment](Due to central Repository of all intelligence)
+@box[fragment](Use related information across Problems)
+@box[fragment](Example:)
+@box[fragment](Labels created in text feedback analysis can be used in Kyte)
++++
+#### Test Product even before Full Product Development
+@box[fragment](Test end-to-end pipeline before full integration)
 @box[fragment](with response times)
----
-## Text Intelligence
 ---
 ### Dedicated to
 #### Vladimir Naumovich Vapnik
