@@ -41,8 +41,10 @@ What is Vapnik
 #### Platform Independence AI
 @box[fragment](Model Integrated Product Development)
 @box[fragment](Core Intelligence separate from the product)
-@img[west fragment span-50](https://i.imgur.com/kYXmBTD.png)
-@img[east fragment span-50](https://i.imgur.com/JSoVXpr.png)
++++
+@img[norht-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
+@img[north-east fragment span-45](https://i.imgur.com/JSoVXpr.png)
+@img[south fragment span-45](https://i.imgur.com/7eJk4YI.png)
 +++
 #### Centrality
 @box[fragment](Due to central Repository of all intelligence)
