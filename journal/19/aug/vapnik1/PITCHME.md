@@ -38,13 +38,13 @@ What is Vapnik
 @snapend
 +++
 #### Centrality
-@box[bg-orange text-white fragment](Due to central repository of all intelligence)
-@box[bg-orange text-white fragment](Use related information across Problems)
-@box[bg-orange text-white box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
+@box[bg-pink text-white fragment](Central repository of all Data and Models)
+@box[bg-pink text-white fragment](Cross-Problem Learning Application)
+@box[bg-pink text-white box-padding fragment](Example: #Labels created in text feedback analysis can be used in Kyte)
 +++
-#### Test Product even before Full Product Development
-@box[fragment](Test end-to-end pipeline before full integration)
-@box[fragment](with response times)
+#### Test POC
+@box[bg-pink text-white fragment](Test end-to-end pipeline before full integration)
+@box[bg-pink text-white fragment](with response times)
 ---
 ### Dedicated to
 #### Vladimir Naumovich Vapnik
