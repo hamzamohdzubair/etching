@@ -43,6 +43,7 @@ What is Vapnik
 ## Text Intelligence
 ---
 ### Dedicated to
+#### Vladimir Naumovich Vapnik
 ![Imgur](https://i.imgur.com/59J5hT1.png)
 ---
 #### Thank you
