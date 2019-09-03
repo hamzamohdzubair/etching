@@ -35,14 +35,14 @@ What is Vapnik
 +++
 #### Flexibility
 @box[bg-gold text-white fragment](Build a UI on top of it)
-@box[bg-gold text-white fragment](Build an App that uses any of the microservice)
+@box[bg-gold text-white fragment](Build an App that uses any of the AI microservice)
 @box[bg-gold text-white fragment](Integrate any microservice into an existing software/system/app)
 +++
 #### Platform Independence AI
 @box[fragment](Model Integrated Product Development)
 @box[fragment](Core Intelligence separate from the product)
-@img[west fragment](https://i.imgur.com/kYXmBTD.png)
-@img[east fragment](https://i.imgur.com/JSoVXpr.png)
+@img[west fragment span-50](https://i.imgur.com/kYXmBTD.png)
+@img[east fragment span-50](https://i.imgur.com/JSoVXpr.png)
 +++
 #### Centrality
 @box[fragment](Due to central Repository of all intelligence)
