@@ -30,9 +30,9 @@ What is Vapnik
 @box[fragment](Core Intelligence separate from the product)
 ![fragment](https://i.imgur.com/kYXmBTD.png)
 
-@img[north-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
-@img[north-east fragment span-45](https://i.imgur.com/JSoVXpr.png)
-@img[south fragment span-45](https://i.imgur.com/7eJk4YI.png)
+@img[north-west span-45](https://i.imgur.com/kYXmBTD.png)
+@img[north-east span-45](https://i.imgur.com/JSoVXpr.png)
+@img[south span-45](https://i.imgur.com/7eJk4YI.png)
 +++
 #### Centrality
 @box[fragment](Due to central repository of all intelligence)
