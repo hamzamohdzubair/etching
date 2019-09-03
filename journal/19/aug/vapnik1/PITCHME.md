@@ -42,7 +42,7 @@ All the features
 @box[fragment](Model Integrated Product Development)
 @box[fragment](Core Intelligence separate from the product)
 +++
-@img[norht-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
+@img[north-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
 @img[north-east fragment span-45](https://i.imgur.com/JSoVXpr.png)
 @img[south fragment span-45](https://i.imgur.com/7eJk4YI.png)
 +++
