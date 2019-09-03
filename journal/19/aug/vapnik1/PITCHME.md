@@ -32,9 +32,7 @@ All the features
 +++
 #### Platform Independence AI
 @box[fragment](Core Intelligence separate from the product)
-@snap[north-west fragment]
-![](https://i.imgur.com/kYXmBTD.png)
-@snapend
+![north-west](https://i.imgur.com/kYXmBTD.png)
 
 @img[north-west fragment span-45](https://i.imgur.com/kYXmBTD.png)
 @img[north-east fragment span-45](https://i.imgur.com/JSoVXpr.png)
