@@ -14,10 +14,10 @@
 @olend
 ---
 ### What is RL
-+++
+--
 #### It is a different kind of Supervised Learning
 ### @css[fragment](Wrong)
-+++
+--
 #### Different Kind of Unsupervised Learning
 ### @css[fragment](Wrong)
 +++
